@@ -1,0 +1,9 @@
+# Preserve the original website snapshot exactly on every checkout.
+public/** -text
+
+# Keep deployment scripts and documentation portable.
+scripts/** text eol=lf
+docs/** text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
