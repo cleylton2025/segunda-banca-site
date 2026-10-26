@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Configure SITE_URL com a origem HTTPS do NOVO domínio no ambiente de build.
+# Não cadastrar nem transferir o domínio segundabanca.com.br para este projeto.

@@ -1,0 +1,83 @@
+{
+  "captured_on": "2026-10-26",
+  "origin": "https://segundabanca.com.br",
+  "source_version": 10,
+  "source_commit": "bceccfe35647134a15b93452147913d72b5be1c9",
+  "files": [
+    {
+      "path": "app.js",
+      "bytes": 3100,
+      "sha256": "67317af2945b212997905e755269b59f57db7a7431c723e2dd3fec293a25522e"
+    },
+    {
+      "path": "assets/cleylton.jpg",
+      "bytes": 8412897,
+      "sha256": "5949f49572dbc34c051a607450da53dfb7b6c1d9aad7a1426556430faeba124f"
+    },
+    {
+      "path": "assets/egide-symbol.svg",
+      "bytes": 259,
+      "sha256": "a8579bd61ecea7ced66c3598e7de43409a2062cfc0679a3226ca24d736f7123a"
+    },
+    {
+      "path": "assets/monitor-demo/relatorio-1.png",
+      "bytes": 112232,
+      "sha256": "9273f425961c7ddfdfecabd4c55f624ebf7bbf4e02286501da9930ede4a48139"
+    },
+    {
+      "path": "assets/monitor-demo/relatorio-2.png",
+      "bytes": 142897,
+      "sha256": "2585836eaec75aa7f5f3da084365ddd9fda092854d941cc36912abba6c38435b"
+    },
+    {
+      "path": "assets/monitor-demo/relatorio-exemplo.pdf",
+      "bytes": 48588,
+      "sha256": "f3a3b1b846eece603824d67c6f64ca66e60896c03b07d99699cd940f3181c18f"
+    },
+    {
+      "path": "assets/simbolo.png",
+      "bytes": 20816,
+      "sha256": "1505c9224c2783a8edda6b7c5028e69b0c660e53fad58131cb2c4deec0eab1bf"
+    },
+    {
+      "path": "coming-soon.css",
+      "bytes": 2345,
+      "sha256": "41ef265915f45c2e442bcb71f0f8f199048fc4751ed4788ccdd52b201d0c6df5"
+    },
+    {
+      "path": "egide.css",
+      "bytes": 13398,
+      "sha256": "17a33dc079cb573a25f525b1443c4185249905030b2e046d84a335036a546ba7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12810,
+      "sha256": "e08877ebb30c0652661caa462062a2a6be09e5655d3d539391bb17609779c422"
+    },
+    {
+      "path": "monitor-djen/index.html",
+      "bytes": 23604,
+      "sha256": "bfd2ae358d604291bc2f48fdf63b6910c67f2df8f0b60b94607a7bfff695944c"
+    },
+    {
+      "path": "sales.css",
+      "bytes": 7010,
+      "sha256": "bfcfcc545b219112735ecb753b70b229683265f10dc47ee0fb751114bb964c38"
+    },
+    {
+      "path": "solucoes-gratuitas/index.html",
+      "bytes": 4298,
+      "sha256": "d23c3eff2fdcf32c59f6f34ca2f61f5d8a409188c0e1c3ecae20b9fd54d8e3fb"
+    },
+    {
+      "path": "solutions.css",
+      "bytes": 4007,
+      "sha256": "d9f4a0697cf0d54e84ec5f29382992f5dc96e6c3387d2087fcd01f8d5f773c83"
+    },
+    {
+      "path": "style.css",
+      "bytes": 16176,
+      "sha256": "73b18c820cff1067b22b89db6eaf58e922a356635f71f55b986338b171abea8f"
+    }
+  ]
+}
